@@ -1,4 +1,4 @@
-#  Basit Phishing URL Tespit Aracı
+# Phishing URL Tespit Aracı
 
 Bu proje, kullanıcıdan alınan bir URL’yi analiz ederek onun potansiyel olarak **güvenli**, **şüpheli** ya da **phishing olabilir** olup olmadığını belirlemeye çalışan basit bir URL analiz aracıdır.
 
